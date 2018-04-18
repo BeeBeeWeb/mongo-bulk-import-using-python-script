@@ -17,7 +17,8 @@ else:
 	else:
 		for file in listCollections:
 
-			filename = os.fsdecode(file)
+			# filename = os.fsdecode(file)
+			filename = file
 
 			if filename.endswith(".json"):
 				print("Current file: " + filename)
