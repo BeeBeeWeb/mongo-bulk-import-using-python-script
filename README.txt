@@ -1,5 +1,5 @@
 Prerequisites:
-1. Python (v3.6+)
+1. Python (v3.6+ or v2.7+)
 
 Steps
 1. Copy your collections in 'collections' folder
