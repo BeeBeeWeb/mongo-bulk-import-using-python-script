@@ -1,4 +1,6 @@
-Prerequisites:
+## You can use this python script for bulk import of your collections to your MongoDB
+
+### Prerequisites:
 1. Python (v3.6+ or v2.7+)
 
 Steps
